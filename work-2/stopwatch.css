@@ -1,0 +1,11 @@
+.button {
+  border-radius:0px;
+  border:solid 1px black;
+  background-color:#d3d3d3;
+  width:200px;
+  height:80px
+}
+
+.body h3 {font-size:1.5vw;}
+#counter {font-size:1.5vw;
+}
